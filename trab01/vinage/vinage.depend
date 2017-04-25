@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1458676201 source:c:\users\edson\desktop\vinage\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
